@@ -1,9 +1,9 @@
-# Change Log
+# Changelog
 
-All notable changes to the "c-cpp-extension-pack" extension pack will be documented in this file.
+All notable changes to this project will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.0.1] - 2020-04-14
 
-## [Unreleased]
+### Added
 
-- Initial release
+- subset of extensions

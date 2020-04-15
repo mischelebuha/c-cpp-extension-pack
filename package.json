@@ -1,14 +1,19 @@
 {
     "name": "c-cpp-extension-pack",
+    "publisher": "mischelebuha",
     "displayName": "C/C++ Extension Pack",
     "description": "Collection of essential extensions for productive development in C / C ++",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.44.0"
     },
     "categories": [
         "Extension Packs"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mischelebuha/c-cpp-extension-pack"
+      },
     "extensionPack": [ 
         "ms-vscode.cpptools",
 
