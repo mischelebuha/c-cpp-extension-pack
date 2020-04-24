@@ -3,7 +3,7 @@
     "publisher": "mischelebuha",
     "displayName": "C/C++ Extension Pack",
     "description": "Collection of essential extensions for productive development in C / C ++",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.44.0"
     },
